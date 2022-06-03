@@ -1,22 +1,33 @@
 
-### 👋👋👋 Welcome to bstar0406 profile  👋👋👋
+## 👋👋👋 Welcome to bstar0406 profile  👋👋👋
 
+# ❤️ Blockchain & Smart Contract | Full-Stack Web & Mobile Developer ❤️
 
-🍏🍎🍐🍊🍋🍌🍉🥭🍑🍒🍈🫐🍓🍇🍍🥥🥝🍅🌱❤️🌱🍆🥑🥦🫒🥕🌽🫑🌶🥒🥬🧄🧅🥔🍠🥐🥯🍞🥞🧈🍳🥚🧀🥨🥖🧇🥓🥩🍗🍖🦴🌭
+  ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
+    Blockchain developer 
+    - Ehtereum, Solana, Polygon, Cardano, Flow
+    - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
+    - NFT: NFT minting, staking, reflection, royalty, marketplace
+    - Solidity, Rust, Haskell, GoLang
+    - UniSwap, ICO, Defi, DEX
+    - Cryptocurrency
 
-## I am a Blockchain & Full-Stack Developer❤️
+  ### 🥝 Web | Mobile 🥝
+     Web & Mobile Full Stack Developer
+    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, 
+    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery 
+    - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
+    - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
+    - Python Backend Frameworks: Django, Flask
+    - .NET Frameworks: ASP.NET
+    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
+    - Mobile Frameworks: Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin, Ionic, Kotlin
 
- ### Blockchain | NFT Marketplace | ICO Platform | DAPP  🥦
-    😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
-    - Experienced in NFT marketplace, Ethereum, Polygon, Cardano networks and I am very familiar with implementing ERC20, ERC721, ERC1155. 
-    - NFT minting, NFT drop, Smart Contract with Solidity, Rust, Haskell.
+  ### 🥝 Environment 🥝
+     Great teamworks and Agile environment
+    - VCS: Git, Github, GitLab, BitBucket
+    - Asuan, AWS, Jira, Trello, Docker,
 
-  ### Web | Mobile  🍓
-    🌱 Full-Stack developer with 7+ years of experience in
-    - Frontend: HTML5/CSS3, Bootstrap, JQuery, ReactJS, VueJS, Angular
-    - Backend: Core PHP, Laravel, CodeIgniter, CakePHP
-    - JavaScript: NodeJS, Expressjs, Typescript
-    - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
 
 
 
