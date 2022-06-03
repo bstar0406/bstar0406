@@ -32,8 +32,8 @@
 <img align="right" src="https://img.shields.io/github/followers/Top-Kraken?label=Follow&style=social" />
 <h1 align="center"></h1>
 <h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Top-Kraken&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Kraken&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bstar0406&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar0406&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
 
