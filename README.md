@@ -1,7 +1,7 @@
 
 ## 👋👋👋 Welcome to bstar0406 profile  👋👋👋
 
-## ❤️ Blockchain & Smart Contract | Full-Stack Web & Mobile Developer ❤️
+# ❤️ Smart Contract | Full-Stack Web & Mobile Developer ❤️
 
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain developer ⭐
@@ -40,7 +40,7 @@
 <img height="150" />
 </br>
 
-### Languages and Tools:
+### Languages/Frameworks and Tools:
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" />
