@@ -34,8 +34,6 @@
     - Asuan, AWS, Jira, Trello, Docker
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
-<img align="right" src="https://img.shields.io/github/followers/bstar0406?label=Follow&style=social" />
-<h1 align="center"></h1>
 <h1 align="center"></h1>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bstar0406&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar0406&layout=compact&theme=chartreuse-dark&langs_count=8" />
@@ -62,5 +60,3 @@
 
 <br />
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
----
