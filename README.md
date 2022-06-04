@@ -1,8 +1,13 @@
 
 ## 👋👋👋 Welcome to bstar0406 profile  👋👋👋
 
-# ❤️ Smart Contract | Full-Stack Web & Mobile Developer ❤️
+# ❤️ Smart Contract | Full-Stack Developer ❤️
 
+  ### How to contact me
+      ⭐ Skype: handby256@outlook.com
+      ⭐ Discord: etherdev365#1899
+      ⭐ Telegram: @etherdev365
+      
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain developer ⭐
     - Ehtereum, Solana, Polygon, Cardano, Flow
