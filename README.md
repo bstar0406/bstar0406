@@ -3,11 +3,11 @@
 
 # ❤️ Smart Contract | Full-Stack Developer ❤️
 
-  ### How to contact me
+  ### 🍳 How to contact me 🍳
       ⭐ Skype: handby256@outlook.com
       ⭐ Discord: etherdev365#1899
       ⭐ Telegram: @etherdev365
-      
+
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain developer ⭐
     - Ehtereum, Solana, Polygon, Cardano, Flow
