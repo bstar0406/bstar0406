@@ -1,5 +1,5 @@
 
-## 👋👋👋 Welcome to bstar0406 profile  👋👋👋
+## 👋👋👋 Welcome to Brilliant star's profile  👋👋👋
 
 # ❤️ Smart Contract | Full-Stack Developer ❤️
 
