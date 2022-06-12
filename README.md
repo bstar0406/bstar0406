@@ -1,5 +1,5 @@
 
-## 👋👋👋 Welcome to Brilliant star's profile  👋👋👋
+## 👋👋👋 Welcome to Brilliant Star's profile  👋👋👋
 
 # ❤️ Smart Contract | Full-Stack Developer ❤️
 
@@ -36,7 +36,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bstar0406&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top-kraken&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar0406&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
 
