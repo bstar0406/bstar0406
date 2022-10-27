@@ -13,25 +13,26 @@
     - Ehtereum, Solana, Polygon, Cardano, Flow
     - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
     - NFT: NFT minting, staking, reflection, royalty, marketplace
-    - Solidity, Rust, Haskell, GoLang
+    - Solidity, Rust, Haskell, GoLang, Motoko
     - UniSwap, ICO, Defi, DEX
     - Cryptocurrency
 
   ### 🥝 Web | Mobile 🥝
     ⭐ Web & Mobile Full Stack Developer ⭐
-    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, 
-    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery 
+    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, Rust, Swift, Kotlin
+    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery, Next.js, Nuxt.js, Gatsby
     - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
     - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
-    - Python Backend Frameworks: Django, Flask
+    - Python Backend Frameworks: Django, Flask, Fast API
     - .NET Frameworks: ASP.NET
+    - Golang: Fiber
     - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
     - Mobile Frameworks: Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin, Ionic, Kotlin
 
   ### 🥝 Environment 🥝
     ⭐ Great teamworks and Agile environment ⭐
     - VCS: Git, Github, GitLab, BitBucket
-    - Asuan, AWS, Jira, Trello, Docker
+    - Asuna, AWS, Jira, Trello, Docker, Kubern
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
