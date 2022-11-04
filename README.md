@@ -4,6 +4,7 @@
 # ❤️ Smart Contract | Full-Stack Developer ❤️
 
   ### 🍳 How to contact me 🍳
+      ⭐ Gmail: handby256@gmail.com
       ⭐ Skype: handby256@outlook.com
       ⭐ Discord: etherdev365#1899
       ⭐ Telegram: @etherdev365
