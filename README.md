@@ -31,6 +31,13 @@
     - Golang: Fiber
     - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
     - Mobile Frameworks: Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin, Ionic, Kotlin
+  
+  ### 🥝 Desktop App 🥝
+    ⭐ Desktop app developer ⭐
+    - C#, Windows Form, WPF, UWP, Xamarin Forms, MAUI
+    - C++, MFC, Qt, Java
+    - Electron
+    - Flutter
 
   ### 🥝 Environment 🥝
     ⭐ Great teamworks and Agile environment ⭐
