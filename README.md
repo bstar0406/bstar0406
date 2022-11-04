@@ -8,7 +8,8 @@
       ⭐ Skype: handby256@outlook.com
       ⭐ Discord: etherdev365#1899
       ⭐ Telegram: @etherdev365
-      ⭐ Phone: +1 (863) 546 0884
+      ⭐ Whatsapp: +1 (225) 384-0863
+      ⭐ Phone: +1 (863) 546-0884
 
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain developer ⭐
