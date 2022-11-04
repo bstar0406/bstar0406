@@ -7,6 +7,7 @@
       ⭐ Skype: handby256@outlook.com
       ⭐ Discord: etherdev365#1899
       ⭐ Telegram: @etherdev365
+      ⭐ Phone: +1 (863) 546 0884
 
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain developer ⭐
@@ -32,7 +33,7 @@
   ### 🥝 Environment 🥝
     ⭐ Great teamworks and Agile environment ⭐
     - VCS: Git, Github, GitLab, BitBucket
-    - Asuna, AWS, Jira, Trello, Docker, Kubern
+    - Asuna, AWS, Jira, Trello, Docker, Kubernetes
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
