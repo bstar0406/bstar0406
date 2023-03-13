@@ -1,7 +1,7 @@
 
 ## 👋👋👋 Welcome to Brilliant Star's profile  👋👋👋
 
-# ❤️ Smart Contract | Full-Stack Developer ❤️
+# ❤️ Senior Software & FullStack Engineer ❤️
 
   ### 🍳 How to contact me 🍳
       ⭐ Gmail: mrtnsort@gmail.com
