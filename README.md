@@ -1,5 +1,5 @@
 
-## 👋👋👋 Welcome to Brilliant Star's profile  👋👋👋
+## 👋👋👋 Welcome to my profile  👋👋👋
 
 # ❤️ Senior Software & FullStack Engineer ❤️
 
@@ -13,11 +13,11 @@
 
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain Developer ⭐
-    - Ehtereum, Solana, Polygon, Cardano, Flow, IOTA
+    - Ehtereum, BSC, Solana, Polygon, Cardano, Flow, IOTA
     - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
     - NFT: NFT minting, staking, reflection, royalty, marketplace
     - Solidity, Rust, Haskell, GoLang, Motoko
-    - UniSwap, ICO, Defi, DEX
+    - UniSwap, PancakeSwap ICO, Defi, DEX
     - Cryptocurrency
 
   ### 🥝 Web | Mobile 🥝
@@ -27,23 +27,23 @@
     - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
     - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
     - Python Backend Frameworks: Django, Flask, Fast API
-    - .NET Frameworks: ASP.NET Core 7, Blazor, Razor
+    - .NET Frameworks: ASP.NET Core, Blazor, Razor
     - Golang: Fiber
     - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
     - Mobile Frameworks: Swift with Xcode, Java, Flutter, React Native, Xamarin, Ionic, Kotlin
   
   ### 🥝 Desktop App 🥝
     ⭐ Desktop app developer ⭐
-    - C#, Windows Form, WPF, UWP, Xamarin Forms, MAUI
-    - C++, MFC, Qt, Java
+    - C#, Windows Form, WPF, UWP, Xamarin Forms, .NET MAUI
+    - Qt, Tauri
     - Electron
     - Flutter
 
   ### 🥝 Environment 🥝
     ⭐ Great teamworks and Agile environment ⭐
     - VCS: Git, Github, GitLab, BitBucket
-    - Asuna, AWS, Jira, Trello, Docker, Kubernetes
-    - AWS, GCP, Digital Ocean, Heroku
+    - Asuna, Jira, Trello, Docker, Kubernetes
+    - AWS, Azure, GCP, Digital Ocean, Heroku
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
