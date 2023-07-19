@@ -9,7 +9,7 @@
 - 🤝 Seeking collaborative web development projects
 - 💬 Available to discuss all things web development
 - ✔️ I’m available for remote opportunities
-- 
+  
   ### 🍳 How to contact me 🍳
 <!--
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
@@ -38,40 +38,6 @@
   </a>
 </p>
 
-  ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
-    ⭐ Blockchain Developer ⭐
-    - Ehtereum, BSC, Solana, Polygon, Cardano, Flow, IOTA
-    - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
-    - NFT: NFT minting, staking, reflection, royalty, marketplace
-    - Solidity, Rust, Haskell, GoLang, Motoko
-    - UniSwap, PancakeSwap ICO, Defi, DEX
-    - Cryptocurrency
-
-  ### 🥝 Web | Mobile 🥝
-    ⭐ Web & Mobile Full Stack Developer ⭐
-    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, Rust, Swift, Kotlin
-    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery, Next.js, Nuxt.js, Gatsby
-    - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
-    - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
-    - Python Backend Frameworks: Django, Flask, Fast API
-    - .NET Frameworks: ASP.NET Core, Blazor, Razor
-    - Golang: Fiber
-    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
-    - Mobile Frameworks: Swift with Xcode, Java, Flutter, React Native, Xamarin, Ionic, Kotlin
-  
-  ### 🥝 Desktop App 🥝
-    ⭐ Desktop app developer ⭐
-    - C#, Windows Form, WPF, UWP, Xamarin Forms, .NET MAUI
-    - Qt, Tauri
-    - Electron
-    - Flutter
-
-  ### 🥝 Environment 🥝
-    ⭐ Great teamworks and Agile environment ⭐
-    - VCS: Git, Github, GitLab, BitBucket
-    - Asuna, Jira, Trello, Docker, Kubernetes
-    - AWS, Azure, GCP, Digital Ocean, Heroku
-  ### 💻 My favorite tools and technologies
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -190,6 +156,42 @@
     </td>
  </tr>
 </table>
+
+  ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
+    ⭐ Blockchain Developer ⭐
+    - Ehtereum, BSC, Solana, Polygon, Cardano, Flow, IOTA
+    - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
+    - NFT: NFT minting, staking, reflection, royalty, marketplace
+    - Solidity, Rust, Haskell, GoLang, Motoko
+    - UniSwap, PancakeSwap ICO, Defi, DEX
+    - Cryptocurrency
+
+  ### 🥝 Web | Mobile 🥝
+    ⭐ Web & Mobile Full Stack Developer ⭐
+    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, Rust, Swift, Kotlin
+    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery, Next.js, Nuxt.js, Gatsby
+    - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
+    - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
+    - Python Backend Frameworks: Django, Flask, Fast API
+    - .NET Frameworks: ASP.NET Core, Blazor, Razor
+    - Golang: Fiber
+    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
+    - Mobile Frameworks: Swift with Xcode, Java, Flutter, React Native, Xamarin, Ionic, Kotlin
+  
+  ### 🥝 Desktop App 🥝
+    ⭐ Desktop app developer ⭐
+    - C#, Windows Form, WPF, UWP, Xamarin Forms, .NET MAUI
+    - Qt, Tauri
+    - Electron
+    - Flutter
+
+  ### 🥝 Environment 🥝
+    ⭐ Great teamworks and Agile environment ⭐
+    - VCS: Git, Github, GitLab, BitBucket
+    - Asuna, Jira, Trello, Docker, Kubernetes
+    - AWS, Azure, GCP, Digital Ocean, Heroku
+  ### 💻 My favorite tools and technologies
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
