@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter-">
   </a>
   <a href="https://twitter.com/JamesYamamoto92">
-    <img src="https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
 
 </p>
