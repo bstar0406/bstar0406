@@ -138,7 +138,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br>WordPress
+      <br>Angular
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
