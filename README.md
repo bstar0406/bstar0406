@@ -22,12 +22,14 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/JamesYamamoto92">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter-">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://twitter.com/JamesYamamoto92">
+  <a href="https://wa.me/12253840863">
     <img src="https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
-
+<a href="https://wa.me/12253840863">
+    <img src="https://img.shields.io/badge/Phone-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Phone">
+  </a>
 </p>
 
       ⭐ Whatsapp: +1 (225) 384-0863
