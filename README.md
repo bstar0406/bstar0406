@@ -2,10 +2,30 @@
 # ❤️ Senior Software & FullStack Engineer ❤️
 
   ### 🍳 How to contact me 🍳
-      ⭐ Gmail: mrtnsort@gmail.com
-      ⭐ Skype: handby256@outlook.com
-      ⭐ Discord: etherdev365#1899
-      ⭐ Telegram: @etherdev365
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+
+<p align='center'>
+  <a href="mailto:mrtnsort@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://join.skype.com/invite/NfAIiJPtCYdJ" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="https://t.me/etherdev365">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://discordapp.com/users/etherdev365#1899">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/james-yamamoto-537b49265">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/JamesYamamoto92">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
+  </a>
+
+</p>
+
       ⭐ Whatsapp: +1 (225) 384-0863
       ⭐ Phone: +1 (863) 546-0884
 
