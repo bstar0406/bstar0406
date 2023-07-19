@@ -38,6 +38,8 @@
   </a>
 </p>
 
+### 💻 My favorite tools and technologies
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -190,7 +192,7 @@
     - VCS: Git, Github, GitLab, BitBucket
     - Asuna, Jira, Trello, Docker, Kubernetes
     - AWS, Azure, GCP, Digital Ocean, Heroku
-  ### 💻 My favorite tools and technologies
+  
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
