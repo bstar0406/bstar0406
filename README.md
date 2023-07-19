@@ -188,8 +188,8 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@bstar0406"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=bstar0406&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@bstar0406's wakatime stats"/></a>
-<a href="https://github.com/bstar0406?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bstar0406&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=thunderbolt990525&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <p align="center">
