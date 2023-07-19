@@ -4,10 +4,8 @@
 - 👀 9 years of experience in the software industry
 - 🔭 Rich experience in web development with .NET & Python & JS & PHP frameworks 
 - 🌱 Proficient in hybrid app development for mobile and desktop with Flutter and .NET MAUI
-- 👯 Skill in blockchain & AI & Data science
+- 👯 Skills in blockchain & AI & Data science
 - ⚡ Can start new project immediately
-- 🤝 Seeking collaborative web development projects
-- 💬 Available to discuss all things web development
 - ✔️ I’m available for remote opportunities
   
   ### 🍳 How to contact me 🍳
