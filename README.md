@@ -197,8 +197,6 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bstar0406.bstar0406" />
 <h1 align="center"></h1>
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstar0406&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
 </br>
 
 ### 🔥 &nbsp; My Stats :
