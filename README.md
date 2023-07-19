@@ -1,10 +1,10 @@
 
-# ❤️ Senior Software & FullStack Engineer ❤️
+# ❤️ Senior Full Stack Developer ❤️
 
   ### 🍳 How to contact me 🍳
-
+<!--
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-
+-->
 <p align='center'>
   <a href="mailto:mrtnsort@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -27,13 +27,7 @@
   <a href="https://wa.me/12253840863">
     <img src="https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
-<a href="https://wa.me/12253840863">
-    <img src="https://img.shields.io/badge/Phone-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Phone">
-  </a>
 </p>
-
-      ⭐ Whatsapp: +1 (225) 384-0863
-      ⭐ Phone: +1 (863) 546-0884
 
   ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
     ⭐ Blockchain Developer ⭐
