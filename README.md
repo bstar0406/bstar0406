@@ -25,12 +25,12 @@
   <a href="https://discordapp.com/users/etherdev365#1899" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/james-yamamoto-537b49265" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/james-yamamoto-537b49265" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/JamesYamamoto92" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a> -->
   <a href="https://wa.me/12253840863" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-%51F05C.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
