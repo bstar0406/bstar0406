@@ -174,7 +174,7 @@
     - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
     - Python Backend Frameworks: Django, Flask, Fast API
     - .NET Frameworks: ASP.NET Core, Blazor, Razor
-    - Golang: Fiber
+    - Golang, Rust
     - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
     - Mobile Frameworks: Swift with Xcode, Java, Flutter, React Native, Xamarin, Ionic, Kotlin
   
