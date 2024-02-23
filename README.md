@@ -1,7 +1,7 @@
 
 # ❤️ Senior Full Stack Developer ❤️
 
-- 👀 9+ years of experience in the software industry
+- 👀 10+ years of experience in the software industry
 - 🔭 Rich experience in web development with .NET & Python & JS & PHP frameworks 
 - 🌱 Proficient in hybrid app development for mobile and desktop with Flutter and .NET MAUI
 - 👯 Skills in blockchain & AI & Data science
