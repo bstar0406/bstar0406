@@ -13,7 +13,7 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 -->
 <p align='center'>
-  <a href="mailto:jsoftcorey@gmail.com" target="_blank">
+  <a href="mailto:james.yama.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://join.skype.com/invite/am9wzMHhsAli" target="_blank">
@@ -22,7 +22,7 @@
   <a href="https://t.me/jsoftcorey" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discordapp.com/users/jsoftcorey" target="_blank">
+  <a href="https://discordapp.com/users/slarkhero" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 <!--   <a href="https://www.linkedin.com/in/james-yamamoto-537b49265" target="_blank">
