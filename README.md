@@ -13,9 +13,9 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 -->
 <p align='center'>
-  <a href="mailto:james.yama.tech@gmail.com" target="_blank">
+<!--   <a href="mailto:james.yama.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  </a> -->
   <a href="https://join.skype.com/invite/am9wzMHhsAli" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
@@ -31,9 +31,9 @@
   <a href="https://twitter.com/JamesYamamoto92" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a> -->
-  <a href="https://wa.me/" target="_blank">
+<!--   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-%51F05C.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
+  </a> -->
 </p>
 
 ### 💻 My favorite tools and technologies
